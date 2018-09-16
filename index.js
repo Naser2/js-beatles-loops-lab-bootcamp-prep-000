@@ -1,4 +1,11 @@
 // add solution here
+function theBeatlesPlay(musicians, instruments) {
+  store1
+  
+  for (i in musicians) {
+    
+     }
+  }
 
 
 function johnLennonFacts(facts) {
@@ -11,16 +18,16 @@ var  i = 0
   }
    
    function iLoveTheBeatles(n) {
-    var store = [] 
+    var store2 = [] 
         i = i + 1
     
     
-     do { store.push("I love the Beatles!")  }
+     do { store2.push("I love the Beatles!")  }
      
         while ( n < 15) {
-           return store[i]
+           return store2[i]
             }
 
    }
- return store
+ return store2
 }
