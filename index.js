@@ -3,7 +3,7 @@ function theBeatlesPlay(musicians, instruments) {
   var store1 = []
   
   for (let i = 0; i < musicians.length && instruments.length; i++ ) {
-    store1.push(`${musicians[i]} plays  ${instruments[i]} `)
+    store1.push(`${musicians[i]} plays ${instruments[i]} `)
     
      }
      return store1
