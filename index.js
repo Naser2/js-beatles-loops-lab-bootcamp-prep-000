@@ -30,18 +30,21 @@ var  i = 0
   }
   
   return withBang
-}
-  function iLoveTheBeatles(n) {
+};
+
+
+function iLoveTheBeatles(n) {
     var store2 = [] 
         i = i + 1
     
     
     do { store2.push("I love the Beatles!")  }
-     
-        while ( n < 15) {
-          return store2[i]
-            }
 
+        while ( n < 15) {
+          return store2.push(n)
+          
+            }
+   return store2
   }
 
 
