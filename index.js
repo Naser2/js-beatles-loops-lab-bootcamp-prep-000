@@ -12,12 +12,12 @@ var  i = 0
    
    function iLoveTheBeatles(n) {
     var store = [] 
+    
+     do {   }
+        while () {
+   
+            }
+
    }
  
 }
- do {
-   
- }
-while () {
-   
- }
