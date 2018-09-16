@@ -1,6 +1,6 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments) {
-  store1
+  var store1 = []
   
   for (i = 0; i < musicians.length && instruments.length; i++ ) {
     store1.push(`${musicians[i]} plays  ${instruments[i]} `)
