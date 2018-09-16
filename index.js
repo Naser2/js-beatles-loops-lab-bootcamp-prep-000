@@ -17,7 +17,7 @@ const withBang = []
   var i = 0
 
   while ( i < facts.length) {
-    withBang.push(facts[i] += '!')
+    withBang.push(facts[i] += '!!!')
     i +=1 
   }
   
