@@ -7,5 +7,8 @@ function johnLennonFacts(facts) {
     return facts[i] + '!'
     
   }
+   function iLoveTheBeatles(n) {
+    var store = [] 
+   }
   
 }
