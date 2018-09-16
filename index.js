@@ -2,8 +2,8 @@
 
 
 function johnLennonFacts(facts) {
-  
-  while (i = 0; i < facts.length;  i++ ) {
+var  i = 0
+  while (i < facts.length;  i++ ) {
     return facts[i] + '!'
     
   }
