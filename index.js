@@ -2,7 +2,8 @@
 function theBeatlesPlay(musicians, instruments) {
   store1
   
-  for (i in musicians) {
+  for (i = 0; i < musicians.length || instrument.length; i++ ) {
+    store1.push(i)
     
      }
   }
