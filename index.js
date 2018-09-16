@@ -16,7 +16,7 @@ var  i = 0
     
      do { store.push("I love the Beatles!")  }
      
-        while (n) {
+        while ( n < 15) {
    
             }
 
