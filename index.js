@@ -36,5 +36,3 @@ function iLoveTheBeatles(n) {
             }
    return store2
   }
-
-
