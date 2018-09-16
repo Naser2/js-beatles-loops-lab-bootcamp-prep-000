@@ -12,12 +12,13 @@ var  i = 0
    
    function iLoveTheBeatles(n) {
     var store = [] 
+        i = i + 1
     
     
      do { store.push("I love the Beatles!")  }
      
         while ( n < 15) {
-   
+           return store[i]
             }
 
    }
