@@ -24,16 +24,26 @@ const withBang = []
   return withBang
 };
 
-// NUMBER 
+// NUMBER times "I love the Bea...."
 function iLoveTheBeatles(n) {
     var store2 = [] 
   
-    
     do { store2.push("I love the Beatles!") }
-         i = i + 1
+         n += 1
          
         while ( n < 15) {
           
             }
   return store2
   }
+  
+  function iLoveTheBeatles(n) {
+  const arr = []
+
+  do {
+    arr.push('I love the Beatles!')
+    n++
+  } while (n < 15)
+
+  return arr
+}
