@@ -13,7 +13,8 @@ var  i = 0
    function iLoveTheBeatles(n) {
     var store = [] 
     
-     do {   }
+     do { store.push("I love the Beatles!")  }
+     
         while () {
    
             }
