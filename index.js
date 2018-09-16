@@ -25,15 +25,15 @@ const withBang = []
 };
 
 // NUMBER 
-// function iLoveTheBeatles(n) {
-//     var store2 = [] 
+function iLoveTheBeatles(n) {
+    var store2 = [] 
   
     
-//     do { store2.push("I love the Beatles!") }
+    do { store2.push("I love the Beatles!") }
     
-//         while ( n < 15) {
-//           i = i + 1
+        while ( n < 15) {
+          i = i + 1
           
-//             }
-//   return store2
-//   }
+            }
+  return store2
+  }
