@@ -30,9 +30,9 @@ function iLoveTheBeatles(n) {
   
     
     do { store2.push("I love the Beatles!") }
-    
-        while ( n <15) {
-          i = i + 1
+         i = i + 1
+         
+        while ( n < 15) {
           
             }
   return store2
